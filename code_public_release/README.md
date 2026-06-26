@@ -56,4 +56,4 @@ pip install -r requirements.txt
 
 ## Citation
 
-If you use this code, please cite the accompanying article (ACS Nano, in press).
+If you use this code, please cite the accompanying article.
